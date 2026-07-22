@@ -1,1 +1,4 @@
-
+bankak-server-project/
+├── index.html      ← المشروع كامل (كل الصفحات في ملف واحد)
+├── server.js        ← السيرفر
+└── package.json
