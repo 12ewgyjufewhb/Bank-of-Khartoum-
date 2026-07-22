@@ -1,4 +1,11 @@
-bankak-server-project/
-├── index.html      ← المشروع كامل (كل الصفحات في ملف واحد)
-├── server.js        ← السيرفر
-└── package.json
+{
+  "name": "bankak-project",
+  "version": "1.0.0",
+  "description": "واجهة تعليمية لتطبيق بنكك المصرفي",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
